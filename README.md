@@ -6,7 +6,7 @@ I investigate this topic in various stages of deep learning pipelines: cleaning 
 
 ---
 
-### Latest publications
+### Publications
 
 - [Detecting Notational Errors in Digital Music Scores (TENOR 2025)](https://hal.science/hal-05294807) -- [repository](https://github.com/leleogere/detecting-notational-errors-in-digital-music-scores)
 - [Improved symbolic drum style classification with grammar-based hierarchical representations (ISMIR 2024)](https://hal.science/hal-04660056)
